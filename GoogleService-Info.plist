@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1089820717966-94u3nslsir3f8vr97hsjlci0n6n6msv2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1089820717966-94u3nslsir3f8vr97hsjlci0n6n6msv2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbc8J2PpNWuvFRZlT3LXxDkKxbtVsMYMU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1089820717966</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>live.esportshq.EsportsHQ</string>
+	<key>PROJECT_ID</key>
+	<string>esportshq-ac74d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>esportshq-ac74d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1089820717966:ios:e886de5edf92eb7e392adf</string>
+</dict>
+</plist>
